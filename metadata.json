@@ -1,0 +1,7 @@
+{
+  "name": "Autonomous Satellite Fault Detection & Reconfiguration Lab",
+  "description": "An educational engineering prototype demonstrating spacecraft telemetry processing, statistical & ML anomaly detection, and simulated autonomous reconfiguration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
